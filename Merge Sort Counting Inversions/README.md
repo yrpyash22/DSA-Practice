@@ -1,5 +1,5 @@
 <h2>Count Inversions</h2>
-<h3>Medium</h3>
+<h3>Hard</h3>
 <hr>
 
 <p>
