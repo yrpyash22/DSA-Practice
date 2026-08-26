@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yrpyash22/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yrpyash22/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/yrpyash22/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yrpyash22/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
