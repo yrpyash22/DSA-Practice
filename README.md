@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0704-binary-search) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yrpyash22/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yrpyash22/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
