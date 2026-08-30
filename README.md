@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yrpyash22/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yrpyash22/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yrpyash22/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yrpyash22/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yrpyash22/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yrpyash22/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/yrpyash22/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/yrpyash22/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yrpyash22/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/yrpyash22/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Backtracking
