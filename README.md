@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/yrpyash22/DSA-Practice/tree/master/1392-longest-happy-prefix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
