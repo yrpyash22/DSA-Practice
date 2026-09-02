@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yrpyash22/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/yrpyash22/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yrpyash22/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yrpyash22/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
