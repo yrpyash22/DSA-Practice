@@ -75,69 +75,6 @@ Adjacent vertices have different colors, so 2 colors are enough.
 
 <p>The process continues until all vertices are colored successfully or all possible combinations have been tried.</p>
 
-<h3>Java Solution</h3>
-
-<pre>
-class Solution {
-
-    public boolean graphColoring(int V, int[][] edges, int m) {
-
-        int[] color = new int[V];
-
-        return solve(0, V, edges, m, color);
-    }
-
-    public boolean solve(int vertex, int V, int[][] edges,
-                         int m, int[] color) {
-
-        // All vertices are colored
-        if (vertex == V) {
-            return true;
-        }
-
-        // Try every color
-        for (int c = 1; c &lt;= m; c++) {
-
-            if (isSafe(vertex, c, edges, color)) {
-
-                // Assign color
-                color[vertex] = c;
-
-                // Move to next vertex
-                if (solve(vertex + 1, V, edges, m, color)) {
-                    return true;
-                }
-
-                // Backtrack
-                color[vertex] = 0;
-            }
-        }
-
-        return false;
-    }
-
-    public boolean isSafe(int vertex, int c,
-                          int[][] edges, int[] color) {
-
-        for (int[] edge : edges) {
-
-            int u = edge[0];
-            int v = edge[1];
-
-            if (u == vertex && color[v] == c) {
-                return false;
-            }
-
-            if (v == vertex && color[u] == c) {
-                return false;
-            }
-        }
-
-        return true;
-    }
-}
-</pre>
-
 <h3>Dry Run</h3>
 
 <pre>
