@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yrpyash22/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0079-word-search) |
+| [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
@@ -313,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yrpyash22/DSA-Practice/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
