@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/yrpyash22/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
