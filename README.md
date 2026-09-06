@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yrpyash22/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yrpyash22/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/yrpyash22/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yrpyash22/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yrpyash22/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/yrpyash22/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
