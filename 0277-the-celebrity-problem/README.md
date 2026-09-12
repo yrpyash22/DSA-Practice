@@ -1,4 +1,3 @@
-```html
 <h2><a href="https://www.geeksforgeeks.org/problems/the-celebrity-problem/1">The Celebrity Problem</a></h2><h3>Medium</h3><hr><p>You are given a square matrix <code>mat</code> of size <code>n x n</code> representing people at a party. If <code>mat[i][j] == 1</code>, it means person <code>i</code> knows person <code>j</code>.</p>
 
 <p>A <strong>celebrity</strong> is a person who:</p>
@@ -58,4 +57,3 @@ Therefore, person 0 is the celebrity.
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you solve the problem in <code>O(n)</code> time complexity?
-```
