@@ -39,6 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/yrpyash22/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
@@ -48,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yrpyash22/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yrpyash22/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
+| [3979-maximum-valid-pair-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yrpyash22/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yrpyash22/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/yrpyash22/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/yrpyash22/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/yrpyash22/DSA-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yrpyash22/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/yrpyash22/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -97,7 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yrpyash22/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yrpyash22/DSA-Practice/tree/master/0050-powx-n) |
+| [1518-water-bottles](https://github.com/yrpyash22/DSA-Practice/tree/master/1518-water-bottles) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -119,15 +131,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yrpyash22/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yrpyash22/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yrpyash22/DSA-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/yrpyash22/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yrpyash22/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yrpyash22/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/yrpyash22/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/yrpyash22/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,7 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yrpyash22/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/yrpyash22/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/yrpyash22/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/yrpyash22/DSA-Practice/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -177,7 +199,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yrpyash22/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/yrpyash22/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/yrpyash22/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/yrpyash22/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yrpyash22/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0079-word-search) |
@@ -185,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yrpyash22/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yrpyash22/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/yrpyash22/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1392-longest-happy-prefix](https://github.com/yrpyash22/DSA-Practice/tree/master/1392-longest-happy-prefix) |
@@ -211,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0079-word-search) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
@@ -224,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yrpyash22/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -231,24 +258,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/yrpyash22/DSA-Practice/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yrpyash22/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yrpyash22/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yrpyash22/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yrpyash22/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/yrpyash22/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/yrpyash22/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/yrpyash22/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yrpyash22/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yrpyash22/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/yrpyash22/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yrpyash22/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/yrpyash22/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yrpyash22/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -327,4 +367,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yrpyash22/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/yrpyash22/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/yrpyash22/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/yrpyash22/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/yrpyash22/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/yrpyash22/DSA-Practice/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yrpyash22/DSA-Practice/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/yrpyash22/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3979-maximum-valid-pair-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3979-maximum-valid-pair-sum) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yrpyash22/DSA-Practice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/yrpyash22/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/yrpyash22/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yrpyash22/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
