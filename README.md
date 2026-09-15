@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/yrpyash22/DSA-Practice/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/yrpyash22/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yrpyash22/DSA-Practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/yrpyash22/DSA-Practice/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/yrpyash22/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
