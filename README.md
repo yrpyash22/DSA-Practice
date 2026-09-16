@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yrpyash22/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yrpyash22/DSA-Practice/tree/master/0050-powx-n) |
 | [1518-water-bottles](https://github.com/yrpyash22/DSA-Practice/tree/master/1518-water-bottles) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yrpyash22/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yrpyash22/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/yrpyash22/DSA-Practice/tree/master/0131-palindrome-partitioning) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yrpyash22/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yrpyash22/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
