@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yrpyash22/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yrpyash22/DSA-Practice/tree/master/0050-powx-n) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/yrpyash22/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/yrpyash22/DSA-Practice/tree/master/1518-water-bottles) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -446,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yrpyash22/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/yrpyash22/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
