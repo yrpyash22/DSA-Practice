@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/yrpyash22/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yrpyash22/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 | [3979-maximum-valid-pair-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/yrpyash22/DSA-Practice/tree/master/1518-water-bottles) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yrpyash22/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
