@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yrpyash22/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yrpyash22/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yrpyash22/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yrpyash22/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yrpyash22/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/yrpyash22/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/yrpyash22/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yrpyash22/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yrpyash22/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yrpyash22/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yrpyash22/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yrpyash22/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yrpyash22/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yrpyash22/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Manacher
 |  |
 | ------- |
