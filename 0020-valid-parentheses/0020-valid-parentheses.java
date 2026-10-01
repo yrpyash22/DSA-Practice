@@ -1,13 +1,15 @@
 class Solution {
     public boolean isValid(String str) {
+
+        // Input: s = "()[]{}"         for dry run
         
         Stack<Character> s = new Stack<>();
 
-        for(char ch : str.toCharArray())
+        for(char ch : str.toCharArray())         // ( ) [ ] {}
         {
             if(ch == '(' || ch == '[' || ch == '{')
             {
-                s.push(ch);
+                s.push(ch);           // ['('], ['['], ['{']
             }
             else{
                 if(s.isEmpty())
@@ -15,17 +17,17 @@ class Solution {
                     return false;
                 }
 
-                char top = s.peek();
+                char top = s.peek();   // '(' , '['
 
-                if((ch == ')' && top == '(') || (ch == ']' && top == '[') || (ch == '}' && top == '{'))
+                if((ch == ')' && top == '(') || (ch == ']' && top == '[') || (ch == '}' && top == '{'))   // (')' && '('), (']' & '['), ('{' & '}')
                 {
-                    s.pop();
-                }
+                    s.pop();        // []  ... 
+                } 
                 else{
                     return false;
                 }
             }
         }
-        return s.isEmpty();
+        return s.isEmpty();         // [] T
     }
 }
