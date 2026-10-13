@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/yrpyash22/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yrpyash22/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yrpyash22/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 | [3979-maximum-valid-pair-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yrpyash22/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yrpyash22/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yrpyash22/DSA-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yrpyash22/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yrpyash22/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
