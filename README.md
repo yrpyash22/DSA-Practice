@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yrpyash22/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yrpyash22/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/yrpyash22/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
