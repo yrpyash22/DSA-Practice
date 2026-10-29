@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yrpyash22/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yrpyash22/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yrpyash22/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/yrpyash22/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 | [3979-maximum-valid-pair-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3979-maximum-valid-pair-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/yrpyash22/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yrpyash22/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yrpyash22/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yrpyash22/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yrpyash22/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/yrpyash22/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
