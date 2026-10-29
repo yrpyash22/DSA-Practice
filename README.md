@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yrpyash22/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yrpyash22/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/yrpyash22/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/yrpyash22/DSA-Practice/tree/master/3925-concatenate-array-with-reverse) |
 | [3979-maximum-valid-pair-sum](https://github.com/yrpyash22/DSA-Practice/tree/master/3979-maximum-valid-pair-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yrpyash22/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yrpyash22/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2409-count-days-spent-together](https://github.com/yrpyash22/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/yrpyash22/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/yrpyash22/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yrpyash22/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -394,11 +399,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yrpyash22/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yrpyash22/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -517,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yrpyash22/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/yrpyash22/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
