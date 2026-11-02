@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yrpyash22/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yrpyash22/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/yrpyash22/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yrpyash22/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yrpyash22/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yrpyash22/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yrpyash22/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yrpyash22/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yrpyash22/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yrpyash22/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yrpyash22/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yrpyash22/DSA-Practice/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yrpyash22/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yrpyash22/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yrpyash22/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/yrpyash22/DSA-Practice/tree/master/1518-water-bottles) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yrpyash22/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
